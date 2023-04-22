@@ -1,0 +1,58 @@
+#formatSearch {
+    text-align: start;
+    margin-left: 80px;
+    font-size: 9pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#formatSearch h2 {
+    margin-bottom: 5px;
+}
+
+#containerForm {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    margin-top: 30px;
+    background-color: lightgray;
+    padding: 30px;
+}
+
+#containerForm h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 0px;
+}
+
+.formatInput {
+    margin: 5px;
+    width: 17rem;
+    height: 20px;
+    border: none;
+}
+
+#formatButton {
+    width: 12rem;
+    height: 25px;
+    background-color: #46A4F7;
+    border: none;
+    color: white;
+    margin-top: 13px;
+    cursor: pointer;
+    box-shadow: 0 10px 14px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+#containerList {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    margin-top: 20px;
+    color: gray;
+    font-size: 14pt;
+    border-collapse:collapse;
+    border-spacing: 10px;
+}
+
+td{
+    width: 50%;
+}
